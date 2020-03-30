@@ -1,5 +1,7 @@
 # Maurer-s-Rose
 
+<img src="https://user-images.githubusercontent.com/49375534/77967168-f64dd180-72ba-11ea-8207-1757efea9d97.jpg" width = 30%>
+
 <h3>I used P5.js to simulate </h3>
 
 <h3>How to see the project?</h3>
